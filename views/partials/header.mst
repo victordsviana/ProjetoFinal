@@ -4,6 +4,7 @@
     flex-direction: row-reverse;
     flex-wrap: nowrap;
     align-content: center;
+    background-color: #EBEBEB;;
 }">
 <p> <a href="./pagina3"> Rota terciária </a></p>
 <p><a href="./pagina2"> Rota secundária </a></p>
