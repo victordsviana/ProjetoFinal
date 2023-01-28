@@ -1,0 +1,14 @@
+{{> header }}
+
+        <h3>Aluno: Victor dos Santos Viana</h3>
+        <p>Projeto final de DEV WEB 2: Projeto deve ser realizado de forma individual;
+        <p>Desenvolver na arquitetura MVC (conforme aula do dia);</p>
+        <p>O projeto deve ter 3 rotas diferentes contendo:</p>
+        <p>Rota principal: Apresentação do projeto;</p>
+        <p>Rota secundária: Apresentar a grade de horário do 1ºSem/2023;</p>
+        <p>Rota terciária: Apresentar a estrutura (histórico escolar);</p>
+        <p>O projeto deve ser desenvolvido em Node.JS com os frameworks Mustache e Express.</p>
+        <p>As paginas devem ser criadas pelo servidor (webserver chamando as estruturas).</p>  
+    </div>
+
+    

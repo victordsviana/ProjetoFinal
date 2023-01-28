@@ -1,0 +1,16 @@
+<div style="display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-content: center;
+}">
+<p> <a href="./pagina3"> Rota terciária </a></p>
+<p><a href="./pagina2"> Rota secundária </a></p>
+<p> <a href="/"> Rota principal </a> </p>
+ 
+</div>
+<hr>
+<header> 
+
+<header> 

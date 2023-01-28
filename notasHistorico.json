@@ -1,0 +1,113 @@
+{
+    "status": [
+        {
+            "nome": "Aprovado",
+            "materias": [
+                {
+                    "nome": "Algoritmo e Lógica de Programação",
+                    "nota": 9.6
+                },
+                {
+                    "nome": "Modelagem de Banco de Dados",
+                    "nota": 7.8
+                },
+                {
+                    "nome": "Engenharia de Software I",
+                    "nota": 9.1
+                },
+                {
+                    "nome": "Sistemas Operacionais e Redes de Computadores",
+                    "nota": 8.3
+                },
+                {
+                    "nome": "Desenvolvimento Web I",
+                    "nota": 9.8
+                },
+                {
+                    "nome": "Design Digital",
+                    "nota": 8.5
+                },
+                {
+                    "nome": "Banco de Dados - Relacional",
+                    "nota": 9.2
+                },
+                {
+                    "nome": "Estrutura de Dados",
+                    "nota": 7.9
+                },
+                {
+                    "nome": "Engenharia de Software II",
+                    "nota": 7.8
+                },
+                {
+                    "nome": "Técnica de Programação I",
+                    "nota": 9.5
+                },
+                {
+                    "nome": "Matemática para Computação",
+                    "nota": 9.2
+                }
+            ]
+        },
+        {
+            "nome": "Dispensado",
+            "materias": [
+                
+                {
+                    "nome": "Inglês I",
+                    "nota": "--"
+                },
+                {
+                    "nome": "Inglês II",
+                    "nota": "--"
+                },
+                {
+                    "nome": "Inglês III",
+                    "nota": "--"
+                },
+                {
+                    "nome": "Inglês IV",
+                    "nota": "--"
+                }
+            ]
+        },
+        {
+            "nome": "Cursando",
+            "materias": [
+                {
+                    "nome": "Desenvolvimento Web II",
+                    "nota": "--"
+                },
+
+                {
+                    "nome": "Gestão Ágil de Projetos de Software",
+                    "nota": "--"
+                },
+
+                {
+                    "nome": "Interação Humano Computador",
+                    "nota": "--"
+                },
+
+                {
+                    "nome": "Técnica de Programação II",
+                    "nota": "--"
+                },
+        
+                {
+                    "nome": "Banco de Dados - Não relacional",
+                    "nota": "--"
+                },
+                
+                {
+                    "nome": "Desenvolvimento Web III",
+                    "nota": "--"
+                },
+                {
+                    "nome": "Álgebra Linear",
+                    "nota": "--"
+                }
+            ]
+        }
+    ]
+}

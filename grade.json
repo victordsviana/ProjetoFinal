@@ -1,0 +1,23 @@
+{
+    "segunda": {
+        "disciplina": "Gestão Agil de Projetos",
+        "hora": "7:40 até 11:20"
+    },
+    "terca": {
+        "disciplina": "Banco de Dados - Não Relacional",
+        "hora": "7:40 até 11:20"
+    },
+    "quarta": {
+        
+        "disciplina": "DEV Web III e IHC",
+        "hora": "7:40 até 11:20 e 11h20 até 13h, respectivamente"
+    },
+    "quinta": {
+        "disciplina": "Álgebra Linear",
+        "hora": "7:40 até 11:20"
+    },
+    "sexta": {
+        "disciplina": "Técnicas de Programação II",
+        "hora": "7:40 até 11:20"
+    }
+}

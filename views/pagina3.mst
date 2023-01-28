@@ -1,0 +1,26 @@
+
+{{> header }}
+
+<div style="display: flex; align-content: center; justify-content:center"><h1 >Histórico</h1></div>
+<table border="1" align="center">
+  <thead>
+    <tr>
+      <th>Situação</th>
+      <th>Matérias</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#status}}
+      <tr>
+        <td>{{nome}}</td>
+        <td>
+          <ul>
+            {{#materias}}
+              <li>{{nome}} - <strong>NOTA: {{nota}}</strong></li>
+            {{/materias}}
+          </ul>
+        </td>
+      </tr>
+    {{/status}}
+  </tbody>
+</table>

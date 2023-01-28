@@ -1,0 +1,49 @@
+{{> header }}
+
+<div style="display: flex; align-content: center; justify-content:center"><h1 >Grade 3° Sem.</h1></div>
+</div><table border="1" align="center">
+    <thead>
+        <tr>
+            <th>Dia</th>
+            <th>Disciplina</th>
+            <th>Hora</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#segunda}}
+        <tr>
+            <td>Segunda</td>
+            <td>{{disciplina}}</td>
+            <td>{{hora}}</td>
+        </tr>
+        {{/segunda}}
+        {{#terca}}
+        <tr>
+            <td>Terça</td>
+            <td>{{disciplina}}</td>
+            <td>{{hora}}</td>
+        </tr>
+        {{/terca}}
+        {{#quarta}}
+        <tr>
+            <td>Quarta</td>
+            <td>{{disciplina}}</td>
+            <td>{{hora}}</td>
+        </tr>
+        {{/quarta}}
+        {{#quinta}}
+        <tr>
+            <td>Quinta</td>
+            <td>{{disciplina}}</td>
+            <td>{{hora}}</td>
+        </tr>
+        {{/quinta}}
+        {{#sexta}}
+        <tr>
+            <td>Sexta</td>
+            <td>{{disciplina}}</td>
+            <td>{{hora}}</td>
+        </tr>
+        {{/sexta}}
+    </tbody>
+</table>
